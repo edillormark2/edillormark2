@@ -35,8 +35,4 @@
 ![mark daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=edillormark2&show_icons=true&theme=radical)
 
 
-<a href="https://wakatime.com/@018c478b-7bf8-48c4-a893-0055b2f83fc6" align="right">
-  <img align="right" style="width: 100%;" src="https://github-readme-stats-edillormark2-projects.vercel.app/api/wakatime?username=markdaniel\&layout=compact&theme=tokyonight&hide_border=true&custom_title=Time%20Spent%20Coding">
-</a>
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=markdaniel)](https://github.com/edillormark2/github-readme-stats)
