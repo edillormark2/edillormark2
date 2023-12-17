@@ -4,15 +4,17 @@
 
 👋 Hey there! I'm Mark Daniel Edillor, an aspiring full-stack software developer passionate about creating impactful solutions, especially in web development, with projects showcasing my skills. Immersed in the realm of full-stack development, I'm constantly refining my abilities to build robust, innovative software. I thrive on challenges and embrace lifelong learning in the dynamic landscape of Information Technology.
 
- <p align="left">
-     
- <a href="https://github.com/edillormark2?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/edillormark2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-     <a href="https://github.com/edillormark2?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/edillormark2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
-
+<p align="left">  
+  <a href="https://github.com/edillormark2?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/edillormark2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/edillormark2?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/edillormark2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+ <a href="https://wakatime.com/@018c77b8-a1b7-4701-ada8-07ccddbe11ec">
+  <img alt="wakatime" title="WakaTime" src="https://wakatime.com/badge/user/018c77b8-a1b7-4701-ada8-07ccddbe11ec.svg?color=%23E05D44&label=WAKATIME&logoColor=white&style=for-the-badge&labelColor=CE4630" style="height: 28px; width: auto;" />
+</a>
+</p>
 
 ---
 
