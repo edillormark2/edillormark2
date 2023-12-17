@@ -12,7 +12,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/edillormark2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
  <a href="https://wakatime.com/@018c77b8-a1b7-4701-ada8-07ccddbe11ec">
-  <img alt="wakatime" title="WakaTime" src="https://wakatime.com/badge/user/018c77b8-a1b7-4701-ada8-07ccddbe11ec.svg?color=%23E05D44&label=WAKATIME&logoColor=white&style=for-the-badge&labelColor=CE4630" style="height: 28px; width: auto;" />
+  <img alt="wakatime" title="Time spent in languages" src="https://wakatime.com/badge/user/018c77b8-a1b7-4701-ada8-07ccddbe11ec.svg?color=%23E05D44&label=WAKATIME&logoColor=white&style=for-the-badge&labelColor=CE4630" style="height: 28px; width: auto;" />
 </a>
 </p>
 
@@ -33,6 +33,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <br />
+
 
 #
 
